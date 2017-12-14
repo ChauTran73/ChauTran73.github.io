@@ -19,9 +19,9 @@ h2{
 
 }
 #header-nav,.navbar .navbar-default{
-  background-image: url("https://source.unsplash.com/G86MS2ZsiJA");
+  /*background-image: url("https://source.unsplash.com/G86MS2ZsiJA");
   background-position: center;
-  opacity: 0.8;
+  opacity: 0.8;*/
 }
 .navbar-brand {
   padding-top: 25px;
@@ -53,13 +53,13 @@ h2{
   text-shadow: 1px 1px 1px #222;
 }
 #nav-list a:hover {
-  background: DarkOliveGreen;
+  background: grey;
 }
 #nav-list a span {
   font-size: 2em;
 }
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid DarkOliveGreen;
+  border: 1px solid black;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -162,7 +162,7 @@ section{
 
 /* Individual project images*/
 .thumbnail img {
-   height:350px;
+   height:365px;
    width:100%;
 }
 .thumbnail img{
