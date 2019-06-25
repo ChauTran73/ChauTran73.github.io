@@ -46,6 +46,7 @@ h2{
   font-weight: 700;
   transition: all 0.1s;
   text-shadow: 1px 1px 1px #222;
+  margin-top: 15px;
 }
 #nav-list a:hover {
   background: grey;
